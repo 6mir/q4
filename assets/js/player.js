@@ -4,7 +4,7 @@ let isPlaying = false; // وضعیت پخش آهنگ
 let progressAnimation; // متغیر برای ذخیره انیمیشن نوار پیشرفت
 
 const StopSvgMain = "https://raw.githubusercontent.com/6mir/q4/refs/heads/main/assets/svg/pause.svg"; // آیکون توقف
-const PlaySvgMain = "/assets/svg/play.svg"; // آیکون پخش
+const PlaySvgMain = "https://raw.githubusercontent.com/6mir/q4/refs/heads/main/assets/svg/play.svg"; // آیکون پخش
 const PlayBtn = ".play-btn"; // انتخاب دکمه‌های پخش
 
 // تابع برای پخش آهنگ و تنظیم مشخصات پلیر
